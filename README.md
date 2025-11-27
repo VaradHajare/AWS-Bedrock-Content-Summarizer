@@ -1,4 +1,5 @@
 # 📄 AWS Bedrock Content Summarizer (AI For Bharat Week 1 Lab)
+<img width="821" height="908" alt="Content_Summarizer" src="https://github.com/user-attachments/assets/c23418ac-ecfd-4047-a8d0-45e4929bb81b" />
 
 A Generative AI application that leverages **AWS Bedrock** and **Anthropic Claude 3.7 Sonnet** to analyze and summarize PDF documents. This project demonstrates how to use the [AWS SDK for Python (Boto3)](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) to interact with Foundation Models (FMs) and visualize the results using [Streamlit](https://streamlit.io/).
 
